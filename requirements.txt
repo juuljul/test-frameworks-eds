@@ -1,0 +1,4 @@
+ipykernel==6.29.5
+edspdf==0.9.1
+pandas==2.2.3
+pillow==9.5.0
